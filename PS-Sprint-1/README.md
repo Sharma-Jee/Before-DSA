@@ -25,7 +25,7 @@
    Output: `Leap Year`  
    Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.  
 
-5. **Calculating Armstrong Numbers**  
+5. **✔️Calculating Armstrong Numbers**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Number Theory  
    **Description**: Write a program to check if a number is an Armstrong number.  
