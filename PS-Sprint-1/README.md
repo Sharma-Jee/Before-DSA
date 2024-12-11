@@ -43,7 +43,7 @@
    Output: `[0, 1, 1, 2, 3, 5, 8]`  
    Explanation: The Fibonacci series up to 10 is generated as [0, 1, 1, 2, 3, 5, 8].  
 
-7. **Identifying Palindromes**  
+7. **✔️Identifying Palindromes**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, String Manipulation  
    **Description**: Write a program to check if a string or number is a palindrome.  
