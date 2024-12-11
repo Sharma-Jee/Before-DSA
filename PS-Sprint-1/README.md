@@ -16,7 +16,7 @@
    Output: `Prime`  
    Explanation: 7 has no divisors other than 1 and itself, so it is a prime number.  
 
-4. **Validating Leap Years**  
+4. **✔️Validating Leap Years**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Date Handling  
    **Description**: Write a program to check if a given year is a leap year.  
