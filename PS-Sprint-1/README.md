@@ -68,7 +68,7 @@
    ```  
    Explanation: A pyramid pattern with a height of 5 is generated.
 
-9. **Finding the Factorial of a Number**  
+9. **✔️Finding the Factorial of a Number**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Mathematical Computations  
    **Description**: Write a program to compute the factorial of a given number.  
