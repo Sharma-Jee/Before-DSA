@@ -95,7 +95,7 @@
     Output: `6`  
     Explanation: The GCD of 48 and 18 is 6.
 
-12. **Finding the Least Common Multiple (LCM)**  
+12. **✔️Finding the Least Common Multiple (LCM)**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find the LCM of two numbers.  
@@ -104,7 +104,7 @@
     Output: `60`  
     Explanation: The LCM of 12 and 15 is 60.  
 
-13. **Counting Vowels and Consonants in a String**  
+13. **✔️Counting Vowels and Consonants in a String**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, String Manipulation  
     **Description**: Write a program to count vowels and consonants in a given string.  
