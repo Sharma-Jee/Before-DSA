@@ -77,7 +77,7 @@
    Output: `120`  
    Explanation: 5! (factorial) is 5 × 4 × 3 × 2 × 1 = 120.  
 
-10. **Summing Digits of a Number**  
+10. **✔️Summing Digits of a Number**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Mathematical Computations  
    **Description**: Write a program to calculate the sum of digits of a number.  
@@ -86,7 +86,7 @@
    Output: `10`  
    Explanation: The sum of the digits 1 + 2 + 3 + 4 = 10.  
 
-11. **Finding the Greatest Common Divisor (GCD)**  
+11. **✔️Finding the Greatest Common Divisor (GCD)**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find the GCD of two numbers.  
