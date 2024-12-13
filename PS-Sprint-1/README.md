@@ -149,7 +149,7 @@
     Output: `15`  
     Explanation: The sum of the elements in the array is 15.  
 
-18. **Checking for Armstrong Numbers in a Range**  
+18. **✔️Checking for Armstrong Numbers in a Range**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find all Armstrong numbers within a given range.  
@@ -158,7 +158,7 @@
     Output: `[1, 153, 370, 371, 407]`  
     Explanation: Armstrong numbers between 1 and 500 are 1, 153, 370, 371, and 407.  
 
-19. **Generating Multiplication Tables**  
+19. **✔️Generating Multiplication Tables**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to generate multiplication tables for a given number.  
@@ -174,7 +174,7 @@
     ```  
     Explanation: The multiplication table for 4 up to 5 is generated.  
 
-20. **Finding Prime Numbers in a Range**  
+20. **✔️Finding Prime Numbers in a Range**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find all prime numbers within a given range.  
@@ -183,7 +183,7 @@
     Output: `[11, 13, 17, 19, 23, 29]`  
     Explanation: Prime numbers between 10 and 30 are 11, 13, 17, 19, 23, and 29.  
 
-21. **Checking for Perfect Numbers**  
+21. **✔️Checking for Perfect Numbers**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to determine if a number is a perfect number.  
