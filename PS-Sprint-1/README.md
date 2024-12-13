@@ -260,7 +260,7 @@
     ```  
     Explanation: A number pattern with 3 rows is generated.  
 
-29. **Finding the Sum of the Digits of the Factorial of a Number**  
+29. **✔️Finding the Sum of the Digits of the Factorial of a Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find the sum of the digits of the factorial of a given number.  
