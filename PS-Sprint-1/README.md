@@ -192,7 +192,7 @@
     Output: `Perfect Number`  
     Explanation: 28 is a perfect number because its divisors (1, 2, 4, 7, 14) sum up to 28.
 
-22. **Calculating the Sum of Even Numbers in a Range**  
+22. **✔️Calculating the Sum of Even Numbers in a Range**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find the sum of all even numbers within a given range.  
@@ -201,7 +201,7 @@
     Output: `30`  
     Explanation: The sum of even numbers between 1 and 10 is 2 + 4 + 6 + 8 + 10 = 30.  
 
-23. **Calculating the Sum of Odd Numbers in a Range**  
+23. **✔️Calculating the Sum of Odd Numbers in a Range**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find the sum of all odd numbers within a given range.  
@@ -210,7 +210,7 @@
     Output: `25`  
     Explanation: The sum of odd numbers between 1 and 10 is 1 + 3 + 5 + 7 + 9 = 25.  
 
-24. **Finding the Fibonacci Number at a Specific Position**  
+24. **✔️Finding the Fibonacci Number at a Specific Position**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Sequences  
     **Description**: Write a program to find the Fibonacci number at a specific position.  
@@ -219,7 +219,7 @@
     Output: `5`  
     Explanation: The Fibonacci number at position 5 is 5 (sequence: 0, 1, 1, 2, 3, 5).  
 
-25. **Printing Prime Numbers Less Than a Given Number**  
+25. **✔️Printing Prime Numbers Less Than a Given Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to print all prime numbers less than a given number.  
@@ -228,7 +228,7 @@
     Output: `2, 3, 5, 7, 11, 13, 17, 19`  
     Explanation: The prime numbers less than 20 are 2, 3, 5, 7, 11, 13, 17, and 19.  
 
-26. **Finding the Number of Digits in a Number**  
+26. **✔️Finding the Number of Digits in a Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to count the number of digits in a given number.  
