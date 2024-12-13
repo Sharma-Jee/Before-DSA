@@ -113,7 +113,7 @@
     Output: `Vowels: 3, Consonants: 7`  
     Explanation: "hello world" contains 3 vowels (e, o, o) and 7 consonants (h, l, l, w, r, l, d).  
 
-14. **Reversing a String**  
+14. **✔️Reversing a String**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, String Manipulation  
     **Description**: Write a program to reverse a given string.  
@@ -122,7 +122,7 @@
     Output: `"gnimmargorp"`  
     Explanation: The reversed string of "programming" is "gnimmargorp".  
 
-15. **Finding the Largest and Smallest Numbers in an Array**  
+15. **✔️Finding the Largest and Smallest Numbers in an Array**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
     **Description**: Write a program to find the largest and smallest numbers in an array.  
