@@ -131,7 +131,7 @@
     Output: `Largest: 8, Smallest: 1`  
     Explanation: The largest number in the array is 8 and the smallest is 1.  
 
-16. **Sorting an Array**  
+16. **✔️Sorting an Array**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Sorting Algorithms  
     **Description**: Write a program to sort an array of numbers in ascending order.  
@@ -140,7 +140,7 @@
     Output: `[1, 1, 3, 4, 5, 9]`  
     Explanation: The array sorted in ascending order is [1, 1, 3, 4, 5, 9].  
 
-17. **Finding the Sum of Elements in an Array**  
+17. **✔️Finding the Sum of Elements in an Array**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
     **Description**: Write a program to find the sum of elements in an array.  
