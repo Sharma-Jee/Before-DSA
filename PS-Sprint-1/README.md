@@ -237,7 +237,7 @@
     Output: `5`  
     Explanation: The number 12345 has 5 digits.  
 
-27. **Checking if a Number is a Narcissistic Number**  
+27. **✔️Checking if a Number is a Narcissistic Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to check if a number is a narcissistic number (where the sum of its digits raised to the power of the number of digits equals the number itself).  
