@@ -320,7 +320,7 @@
     Output: `8`  
     Explanation: 2 raised to the power of 3 is 8.  
 
-35. **Checking for an Anagram**  
+35. **✔️Checking for an Anagram**  
     **Difficulty**: Easy  
     **Topics**: String Manipulation  
     **Description**: Write a program to check if two strings are anagrams.  
@@ -329,7 +329,7 @@
     Output: `True`  
     Explanation: "listen" and "silent" are anagrams of each other.  
 
-36. **Finding the Sum of Prime Numbers in a Range**  
+36. **✔️Finding the Sum of Prime Numbers in a Range**  
     **Difficulty**: Medium  
     **Topics**: Number Theory, Mathematical Computations  
     **Description**: Write a program to calculate the sum of all prime numbers within a given range.  
@@ -338,7 +338,7 @@
     Output: `17`  
     Explanation: The sum of prime numbers between 1 and 10 is 2 + 3 + 5 + 7 = 17.  
 
-37. **Finding the N-th Triangular Number**  
+37. **✔️Finding the N-th Triangular Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find the N-th triangular number.  
@@ -347,7 +347,7 @@
     Output: `10`  
     Explanation: The 4th triangular number is 10 (sum of the first 4 natural numbers).  
 
-38. **Checking for Perfect Squares**  
+38. **✔️Checking for Perfect Squares**  
     **Difficulty**: Easy  
     **Topics**: Mathematical Computations  
     **Description**: Write a program to determine if a number is a perfect square.  
@@ -356,7 +356,7 @@
     Output: `True`  
     Explanation: 16 is a perfect square (4^2 = 16).  
 
-39. **Finding the Sum of Squares of Digits**  
+39. **✔️Finding the Sum of Squares of Digits**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find the sum of the squares of the digits of a number.  
@@ -365,7 +365,7 @@
     Output: `14`  
     Explanation: The sum of the squares of digits is 1^2 + 2^2 + 3^2 = 14.  
 
-40. **Generating a Square Matrix of a Given Size**  
+40. **✔️Generating a Square Matrix of a Given Size**  
     **Difficulty**: Medium  
     **Topics**: Arrays, Matrix Operations  
     **Description**: Write a program to generate a square matrix of a given size and fill it with sequential numbers.  
@@ -379,7 +379,7 @@
     ```  
     Explanation: A 3x3 matrix is generated with sequential numbers.  
 
-41. **Calculating the Sum of Digits of a Number Until Single Digit**  
+41. **✔️Calculating the Sum of Digits of a Number Until Single Digit**  
     **Difficulty**: Medium  
     **Topics**: Mathematical Computations  
     **Description**: Write a program to keep summing the digits of a number until a single digit is obtained.  
@@ -388,7 +388,7 @@
     Output: `2`  
     Explanation: The sum of digits is 9 + 8 + 7 + 5 = 29, and then 2 + 9 = 11, and finally 1 + 1 = 2.  
 
-42. **Finding the Count of Specific Digits in a Number**  
+42. **✔️Finding the Count of Specific Digits in a Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, String Manipulation  
     **Description**: Write a program to count the occurrences of a specific digit in a number.  
