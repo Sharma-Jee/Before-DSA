@@ -311,7 +311,7 @@
     Output: `3`  
     Explanation: The median of the sorted array [1, 2, 3, 4, 5] is 3.  
 
-34. **Calculating the Power of a Number**  
+34. **✔️Calculating the Power of a Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to calculate the power of a number.  
