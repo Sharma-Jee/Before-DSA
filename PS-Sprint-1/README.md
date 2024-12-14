@@ -302,7 +302,7 @@
     ```  
     Explanation: Pascal's Triangle with 4 rows is generated.  
 
-33. **Finding the Median of an Array**  
+33. **✔️Finding the Median of an Array**  
     **Difficulty**: Medium  
     **Topics**: Arrays, Sorting  
     **Description**: Write a program to find the median of an array of numbers.  
