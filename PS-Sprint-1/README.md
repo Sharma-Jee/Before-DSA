@@ -397,7 +397,7 @@
     Output: `3`  
     Explanation: The digit 3 occurs 3 times in the number 122333.  
 
-43. **Generating a Fibonacci Sequence Using Recursion**  
+43. **✔️Generating a Fibonacci Sequence Using Recursion**  
     **Difficulty**: Medium  
     **Topics**: Recursion, Sequences  
     **Description**: Write a recursive program to generate the Fibonacci sequence up to a given number.  
