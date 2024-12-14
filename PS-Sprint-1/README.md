@@ -246,7 +246,7 @@
     Output: `Narcissistic Number`  
     Explanation: 153 is a narcissistic number because 1^3 + 5^3 + 3^3 = 153.  
 
-28. **Generating a Pattern of Numbers**  
+28. **✔️Generating a Pattern of Numbers**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Patterns  
     **Description**: Write a program to generate number patterns (e.g., sequential numbers in a matrix).  
@@ -269,7 +269,7 @@
     Output: `9`  
     Explanation: The factorial of 4 is 24, and the sum of the digits (2 + 4) is 6.  
 
-30. **Finding the Largest Palindrome in a String**  
+30. **❌Finding the Largest Palindrome in a String**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, String Manipulation  
     **Description**: Write a program to find the largest palindrome in a given string.  
@@ -278,7 +278,7 @@
     Output: `"bab"` or `"aba"`  
     Explanation: Both "bab" and "aba" are valid palindromes in the string.  
 
-31. **Finding Missing Numbers in a Sequence**  
+31. **✔️Finding Missing Numbers in a Sequence**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
     **Description**: Write a program to find missing numbers in a sequence from 1 to n.  
@@ -287,7 +287,7 @@
     Output: `[3]`  
     Explanation: The missing number in the sequence from 1 to 5 is 3.  
 
-32. **Generating a Pascal’s Triangle**  
+32. **✔️Generating a Pascal’s Triangle**  
     **Difficulty**: Medium  
     **Topics**: Arrays, Mathematical Computations  
     **Description**: Write a program to generate Pascal's Triangle up to a given number of rows.  
