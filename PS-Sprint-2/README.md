@@ -21,7 +21,7 @@
    2 x 4 = 8   3 x 4 = 12  4 x 4 = 16  
    ```
 
-3. **Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)**  
+3. **✔️Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)**  
    **Difficulty**: Medium  
    **Topics**: Mathematical Computations  
    **Description**: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.  
