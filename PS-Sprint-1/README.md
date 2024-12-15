@@ -433,7 +433,7 @@
     Output: `4`  
     Explanation: The most frequent number in the array is 4.  
 
-47. **Determining the Length of a String Without Using Built-In Functions**  
+47. **✔️Determining the Length of a String Without Using Built-In Functions**  
     **Difficulty**: Medium  
     **Topics**: String Manipulation  
     **Description**: Write a program to determine the length of a string without using built-in functions.  
@@ -442,7 +442,7 @@
     Output: `5`  
     Explanation: The length of the string "hello" is determined without using built-in functions.  
 
-48. **Generating a Number Pyramid**  
+48. **✔️Generating a Number Pyramid**  
     **Difficulty**: Medium  
     **Topics**: Patterns, Basic Programming  
     **Description**: Write a program to generate a pyramid of numbers (e.g., 1, 12, 123, etc.).  
@@ -457,7 +457,7 @@
     ```  
     Explanation: A number pyramid with 4 rows is generated.  
 
-49. **Finding the Sum of Prime Factors of a Number**  
+49. **✔️Finding the Sum of Prime Factors of a Number**  
     **Difficulty**: Medium  
     **Topics**: Number Theory, Mathematical Computations  
     **Description**: Write a program to find the sum of the prime factors of a given number.  
@@ -466,7 +466,7 @@
     Output: `5`  
     Explanation: The prime factors of 12 are 2 and 3, and their sum is 2 + 3 = 5.  
 
-50. **Finding the Second Largest Number in an Array**  
+50. **✔️Finding the Second Largest Number in an Array**  
     **Difficulty**: Medium  
     **Topics**: Arrays, Sorting  
     **Description**: Write a program to find the second largest number in an array.  
@@ -475,7 +475,7 @@
     Output: `45`  
     Explanation: The second largest number in the array is 45.  
 
-51. **Finding the Longest Substring Without Repeating Characters**  
+51. **✔️Finding the Longest Substring Without Repeating Characters**  
     **Difficulty**: Medium  
     **Topics**: String Manipulation, Sliding Window  
     **Description**: Write a program to find the longest substring without repeating characters in a given string.  
