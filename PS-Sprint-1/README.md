@@ -406,7 +406,7 @@
     Output: `0, 1, 1, 2, 3`  
     Explanation: The Fibonacci sequence up to 5 is generated.  
 
-44. **Finding All Divisors of a Number**  
+44. **✔️Finding All Divisors of a Number**  
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to find all divisors of a given number.  
@@ -415,7 +415,7 @@
     Output: `1, 2, 3, 4, 6, 12`  
     Explanation: The divisors of 12 are 1, 2, 3, 4, 6, and 12.  
 
-45. **Finding the Average of Numbers in an Array**  
+45. **✔️Finding the Average of Numbers in an Array**  
     **Difficulty**: Easy  
     **Topics**: Arrays, Mathematical Computations  
     **Description**: Write a program to calculate the average of numbers in an array.  
@@ -424,7 +424,7 @@
     Output: `3`  
     Explanation: The average of the numbers is (1 + 2 + 3 + 4 + 5) / 5 = 3.  
 
-46. **Finding the Mode of Numbers in an Array**  
+46. **✔️Finding the Mode of Numbers in an Array**  
     **Difficulty**: Medium  
     **Topics**: Arrays, Statistical Analysis  
     **Description**: Write a program to find the mode (most frequent number) in an array.  
