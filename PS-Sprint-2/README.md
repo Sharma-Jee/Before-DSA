@@ -1,4 +1,4 @@
-1. **Finding the Sum of Digits of a Number Until Zero**  
+1. **✔️Finding the Sum of Digits of a Number Until Zero**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Mathematical Computations  
    **Description**: Write a program to repeatedly sum the digits of a number until the result is zero.  
@@ -7,7 +7,7 @@
    Output: `6`  
    Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit).
 
-2. **Generating a Multiplication Table for a Range**  
+2. **✔️Generating a Multiplication Table for a Range**  
    **Difficulty**: Easy  
    **Topics**: Arrays, Basic Programming  
    **Description**: Write a program to generate multiplication tables for numbers within a specified range.  
