@@ -1,4 +1,4 @@
-### **Problem 1: Print a Right-Angle Triangle of Stars**
+### **Problem 1: ✔️Print a Right-Angle Triangle of Stars**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a right-angle triangle pattern of stars (`*`). Each row should contain an increasing number of stars, starting from 1 star in the first row.
@@ -15,7 +15,7 @@
 
 ---
 
-### **Problem 2: Print a Square of Stars**
+### **Problem 2: ✔️ Print a Square of Stars**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a square pattern of stars (`*`). Each row and column should have the same number of stars.
@@ -33,7 +33,7 @@
 
 ---
 
-### **Problem 3: Print a Pyramid Pattern**
+### **Problem 3: ✔️ Print a Pyramid Pattern**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a pyramid pattern with stars (`*`). The pyramid should have a single peak and each row should have an increasing number of stars, centered horizontally.
@@ -49,7 +49,7 @@
 
 ---
 
-### **Problem 4: Print a Diamond Pattern**
+### **Problem 4: ✔️ Print a Diamond Pattern**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a diamond pattern with stars (`*`). The pattern should include a single peak in the middle with symmetric rows above and below it.
