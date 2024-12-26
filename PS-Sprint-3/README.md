@@ -67,7 +67,7 @@
 
 ---
 
-### **Problem 5: Print a Hollow Square of Stars**
+### **Problem 5: ✔️ Print a Hollow Square of Stars**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a hollow square pattern with stars (`*`). The border of the square should be filled with stars while the inner part should be empty.
@@ -83,7 +83,7 @@
 *****
 ```
 
-### **Problem 6: Print a Number Triangle**
+### **Problem 6: ✔️ Print a Number Triangle**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a right-angle triangle pattern with numbers. Each row should contain an increasing sequence of numbers starting from 1.
@@ -100,7 +100,7 @@
 
 ---
 
-### **Problem 7: Print an Inverted Triangle Pattern**
+### **Problem 7: ✔️ Print an Inverted Triangle Pattern**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print an inverted triangle pattern with stars (`*`). Each row should contain decreasing numbers of stars from the top row.
@@ -118,7 +118,7 @@
 
 ---
 
-### **Problem 8: Print a Diamond Pattern with Numbers**
+### **Problem 8: ✔️ Print a Diamond Pattern with Numbers**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a diamond pattern with numbers. The pattern should have a peak in the middle with symmetric rows above and below it.
@@ -136,7 +136,7 @@
 
 ---
 
-### **Problem 9: Print a Right-Angle Triangle of Numbers**
+### **Problem 9: ✔️ Print a Right-Angle Triangle of Numbers**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a right-angle triangle pattern with increasing numbers. Each row should contain a continuous sequence of increasing numbers.
@@ -153,7 +153,7 @@
 
 ---
 
-### **Problem 10: Print a Pyramid Pattern with Numbers**
+### **Problem 10: ✔️ Print a Pyramid Pattern with Numbers**
 **Difficulty:** Easy  
 **Topics:** Pattern Printing  
 **Hint:** Print a pyramid pattern with increasing numbers. Each row should have an increasing sequence of numbers, centered horizontally.
@@ -169,7 +169,7 @@
 
 ---
 
-### **Problem 11: Print a Pattern of Alternating 0s and 1s**
+### **Problem 11: ✔️ Print a Pattern of Alternating 0s and 1s**
 **Difficulty:** Medium  
 **Topics:** Matrix Pattern  
 **Hint:** Print a matrix where elements alternate between `0` and `1`. The pattern should alternate both row-wise and column-wise.
@@ -186,7 +186,7 @@
 
 ---
 
-### **Problem 12: Print a Pascal’s Triangle**
+### **Problem 12: ✔️ Print a Pascal’s Triangle**
 **Difficulty:** Medium  
 **Topics:** Matrix Pattern  
 **Hint:** Print Pascal’s Triangle up to `N` rows. Each row should be constructed based on the sum of the elements directly above it in the previous row.
